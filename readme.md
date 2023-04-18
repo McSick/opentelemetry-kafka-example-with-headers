@@ -2,11 +2,12 @@
 This example demonstrates a simple Kafka producer and consumer in Java that processes messages in batches and includes headers.
 
 ## Prerequisites
--Java 8 or higher
--Apache Maven
--Apache Kafka
--Installing Kafka
--Follow these steps to install Kafka on your local machine:
+-Java 8 or higher  
+-Apache Maven  
+-Apache Kafka  
+-Installing Kafka  
+
+Follow these steps to install Kafka on your local machine:
 
 ### For macOS
 Install Homebrew if not already installed: https://brew.sh/
