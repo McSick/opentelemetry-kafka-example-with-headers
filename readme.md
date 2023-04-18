@@ -90,3 +90,6 @@ mvn exec:java -Dexec.mainClass="com.example.kafka.BatchConsumerWithHeader"
 ```
 
 The producer will send 100 messages with headers to the "example-topic" topic. The consumer will subscribe to the same topic and read messages in batches of 10, printing the message details along with the headers.
+
+Example trace with header set:
+![Alt text](/example.png?raw=true "Example Trace")
